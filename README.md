@@ -1,2 +1,2 @@
 # K-Means-Behavioral-Study
-A study for K-Means Clustering algorithm with random data in Python 3.4.4
+Visualizing K-Means Clustering algorithm with random data using Matplotlib in Python 3.4.4
