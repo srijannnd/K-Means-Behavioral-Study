@@ -1,7 +1,7 @@
 # K-Means-Behavioral-Study
 Visualizing K-Means Clustering algorithm written from scratch with random data using Matplotlib in Python 3.4.4<br />
-
-Dependencies - Numpy, Matplotlib<br />
+Dependencies - Numpy, Matplotlib
+<br />
 First Iteration<br />
 ![alt text](https://github.com/srijannnd/K-Means-Behavioral-Study/blob/master/1st%20Iteration.png)<br />
 <br />
